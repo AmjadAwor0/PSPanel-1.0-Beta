@@ -1,0 +1,4 @@
+Hello!
+Type sudo sh setup.sh to start the setup
+Run PSPanel with:
+sudo pspanel

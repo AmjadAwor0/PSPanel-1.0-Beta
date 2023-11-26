@@ -1,0 +1,39 @@
+PSPanel
+you can get payloads from the internet and use them
+and publish your own payloads
+Commands:
+1-   use payload [payload]
+2-   install payload [git/psdata] [payload]
+3-   options
+4-   set [section] [option] [value]
+5-   help
+6-   start
+7-   clear
+8-   exit
+9-   read [file]
+10-  payloads
+--------------------------
+Command's help:
+Number 1: use payload [payload]
+    in this command you can use the payload that you downloaded.
+Number 2: install payload [git/psdata] [owner] [payload]
+    using this command you can download payloads from github or psdata(not available)
+Number 3: options
+    shows the options file, this may help you when you use command 'set'
+Number 4: set [section] [option] [value]
+    edit values in the options file
+Number 5: help
+    shows the help file. written by the owner of the payload in the payload
+Number 6: start
+    starts the start file in the payload
+Number 7: clear
+    clears the screen
+Number 8: exit
+    exit PSPanel
+Number 9: read [file]
+    Reads any file you want from the selected payload folder
+Number 10: payloads
+    Shows downloaded payloads
+
+Have fun.
+Made by Teasharp Team.
